@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 2: January 28th, 2017
+
+**Today's Progress**: Continued work on Node.js recruitment.
+
+**Thoughts:** Challenging working out how the different chat [Dialogs](https://docs.botframework.com/en-us/node/builder/chat/dialogs/) work but very interesting.
+
+**Link to work:** Can't provide as working private repo. I will publish eventually, promise :)
+
+--
+
 ### Day 1: January 27th, 2017
 
 **Today's Progress**: Set up Node.js Chat Bot project on the [Microsoft Bot framework](https://dev.botframework.com/). Added welcome message and started main dialog.
