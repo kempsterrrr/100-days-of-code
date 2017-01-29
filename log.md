@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 29th, 2017
+
+**Today's Progress**: Some work on the node.js recruitment chat bot. More time spent learnning webpack and a start on SASS
+
+**Thoughts:** Starting to get the feel for npm, dependencies and working from the terminal. Yet to really dive into SASS but the features feel way more like a programming language which is good as I have never been a huge fan of CSS
+
+**Link to work:** Working from a prviate repo
+
+##Useful Links##
+
+* https://www.youtube.com/watch?v=gAJuZtvXvpk
+* https://alistapart.com/article/why-sass - fooled inot thinking the book was free !
+
+
+--
+
 ### Day 2: January 28th, 2017
 
 **Today's Progress**: Continued work on Node.js recruitment.
