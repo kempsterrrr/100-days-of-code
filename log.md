@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 30th, 2017
+
+**Today's Progress**: Today I ran through the set up of webpack, bable and sass again to set up my new protfoli/github pages project
+
+**Thoughts:** getting used to the terminal and it's making everything much easier and faster as well as getting me used to dealing with error and just understand how the terminal works
+
+**Link to work:** Another private repo! Going to finish my portfolio and then share eventually
+
+--
+
 ### Day 3: January 29th, 2017
 
 **Today's Progress**: Some work on the node.js recruitment chat bot. More time spent learnning webpack and a start on SASS
@@ -12,7 +22,6 @@
 
 * https://www.youtube.com/watch?v=gAJuZtvXvpk
 * https://alistapart.com/article/why-sass - fooled inot thinking the book was free !
-
 
 --
 
