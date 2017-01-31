@@ -6,7 +6,6 @@
 
 **Thoughts:** This thought me a lot about testing things and being explicit when writing code
 
-**Link to work:** Still on a private repo
 --
 
 ### Day 4: January 30th, 2017
