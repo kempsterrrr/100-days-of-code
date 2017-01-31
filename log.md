@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 31st, 2017
+
+**Today's Progress**: Back on the node chat bot today with MS bot fraemwork. I tested it on someone else and it failed misrably, starting all over again :)
+
+**Thoughts:** This thought me a lot about testing things and being explicit when writing code
+
+**Link to work:** Still on a private repo :/...
+--
+
 ### Day 4: January 30th, 2017
 
 **Today's Progress**: Today I ran through the set up of webpack, bable and sass again to set up my new protfoli/github pages project
