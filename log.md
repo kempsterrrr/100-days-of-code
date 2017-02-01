@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: February 1st, 2017
+
+**Today's Progress**: Started React todo app using the Net Ninja tutorials on Youtube. Set up my first React project using webpack and made my frist component
+
+**Thoughts:** Really interesting learning more about webpack and can see how the basic's of react work now too. Need to get more sleep it was really hard to concentrate
+
+--
+
 ### Day 5: January 31st, 2017
 
 **Today's Progress**: Back on the node chat bot today with MS bot fraemwork. I tested it on someone else and it failed misrably, starting all over again :)
@@ -7,6 +15,7 @@
 **Thoughts:** This thought me a lot about testing things and being explicit when writing code
 
 **Link to work:** Still on a private repo :/...
+
 --
 
 ### Day 4: January 30th, 2017
