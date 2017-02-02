@@ -22,7 +22,6 @@
 
 **Thoughts:** This thought me a lot about testing things and being explicit when writing code
 
-<<<<<<< HEAD
 **Link to work:** Still on a private repo :/...
 
 --
