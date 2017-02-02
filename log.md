@@ -2,9 +2,9 @@
 
 ### Day 7: February 2nd, 2017
 
-**Today's Progress**: Continued the React Todo app. Learn about proprs, state, input refs and styled components
+**Today's Progress**: Continued the React Todo app. Learned about proprs, state, input refs and styled components
 
-**Thoughts:** Huge amount of had tonight. Love how simple the principles are that reat, I was following a tutorial but I feel like I could right my own simple app already - very cool
+**Thoughts:** Huge amount of fun had tonight. Love how simple the principles of React are, I was following a tutorial but I feel like I could right my own simple app already - very cool
 
 --
 
