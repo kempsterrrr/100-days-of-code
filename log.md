@@ -25,8 +25,6 @@
 <<<<<<< HEAD
 **Link to work:** Still on a private repo :/...
 
-=======
->>>>>>> 28254dbaa2a3635e74206e7b12761d22bc34d01a
 --
 
 ### Day 4: January 30th, 2017
