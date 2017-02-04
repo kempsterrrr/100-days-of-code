@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+
+### Day 8: February 4th, 2017
+
+**Today's Progress**: Finished React Todo app, ran through a few more project configs using React, SASS, Babel and WebPack - started a concept site for the recruitmnet businss I work for
+
+**Thoughts:** Starting actually get the hand of webpack and react. Nothing to complex with React yet but lots of fun and really interesting learning about how to strucutre apps rather than sites and how to re-use/modularise code for better maintainance and upgrades
+
+**Link to work:** I will upload this and share it later, finally! 
+
+--
+
 ### Day 7: February 2nd, 2017
 
 **Today's Progress**: Continued the React Todo app. Learned about proprs, state, input refs and styled components
