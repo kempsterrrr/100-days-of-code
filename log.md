@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 9: February 5th, 2017
+
+**Today's Progress**: A lot of time on the bacis's of CSS layouts and starting on flex-box
+
+**Thoughts:** Nothing more annoying than getting a React application running and starting to build components with 0 ability to add remotely athestically pleasing styling
+
+**Link to work:** Private repo! I will sort this out at somet point but all my projects are sensitive at the moment.
+
+--
 
 ### Day 8: February 4th, 2017
 
