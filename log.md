@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 10: February 6th, 2017
+
+**Today's Progress**: Braved a new world working with react outside of a guided tutorial
+
+**Thoughts:** Building the ToDo app with React was rewarding but building something from scratch is much for fun. Challenge my understanding of the concepts I had learnt but using the tutorial as a guide I really start to understand how to use the library. Comfortbaly now using mouldar components and setting up Router/Route for the app. Really fun
+
+**Link to work:** Private Repo still for this one
+
+--
+
 ### Day 9: February 5th, 2017
 
 **Today's Progress**: A lot of time on the bacis's of CSS layouts and starting on flex-box
