@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 11: February 7th, 2017
+
+**Today's Progress**: More on the React concept site for the recruitment company I work for
+
+**Thoughts:** Learning more but was doing so on a train in the moring and after a couple of glass of wine in the evening. Didn't really sink in so back to more serious work tomorrow.
+
+**Link to work:** Private Repo still for this one
+
+--
+
 ### Day 10: February 6th, 2017
 
 **Today's Progress**: Braved a new world working with react outside of a guided tutorial
