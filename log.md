@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 12: February 8th, 2017
+
+**Today's Progress**: Finished the home page for the rec site I work for. Really satisfying.
+
+**Thoughts:** Design does not seem to come to me naturally. Choosing fonts, background images etc. is all def harder than writing JavaScript !
+
+**Link to work:** I'll put a photo up and change this soon
+
 ### Day 11: February 7th, 2017
 
 **Today's Progress**: More on the React concept site for the recruitment company I work for
