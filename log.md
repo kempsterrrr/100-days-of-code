@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 13: February 9th, 2017
+
+**Today's Progress**: Started my portfolio that will be sharing on Github Pages at some point. Doing this with react as well
+
+**Thoughts:** Getting quite fluid with using react, nothing has gotten that complex yet and no state management etc. but feeling food.
+
 ### Day 12: February 8th, 2017
 
 **Today's Progress**: Finished the home page for the rec site I work for. Really satisfying.
