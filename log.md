@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 14: February 11th, 2017
+
+**Today's Progress**: Missed yesterday out with work, clocked up 3 hours this morning working on React portfolio though - nailed the mobile first navigation and started on the header Section
+
+**Thoughts:** Getting more and more comfortabel with the modular approach to react and actually have success with CSS/SCSS! 😎
+
 ### Day 13: February 9th, 2017
 
 **Today's Progress**: Started my portfolio that will be sharing on Github Pages at some point. Doing this with react as well
