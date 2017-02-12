@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 15: February 12th, 2017
+
+**Today's Progress**: A lot of JavaScript learning on Treehouse and some messing around on my React portfolio
+
+**Thoughts:** trying to develop without paying full attention is furstrating
+
 ### Day 14: February 11th, 2017
 
 **Today's Progress**: Missed yesterday out with work, clocked up 3 hours this morning working on React portfolio though - nailed the mobile first navigation and started on the header Section
