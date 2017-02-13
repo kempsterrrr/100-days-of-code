@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 16: February 13th, 2017
+
+**Today's Progress**: More learning on Treehouse Full Stack JavaScript track, specifically DOM manipulation. Also set up project for new vanilla javascript to do app
+
+**Thoughts:** Was interesting to learn more about the complexities that frameworks and libraries remove from writing everyday JavaScript applications, going to impliment this learning to build a vanilla js to do app.
+
 ### Day 15: February 12th, 2017
 
 **Today's Progress**: A lot of JavaScript learning on Treehouse and some messing around on my React portfolio
