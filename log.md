@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 17: February 43th, 2017
+
+**Today's Progress**: about 45 mins on the trian working on Vanilla JS todo app using ES6 and webpack
+
+**Thoughts:** Wanted to get some time in but it's valentines day and I like my testicals
+
 ### Day 16: February 13th, 2017
 
 **Today's Progress**: More learning on Treehouse Full Stack JavaScript track, specifically DOM manipulation. Also set up project for new vanilla javascript to do app
