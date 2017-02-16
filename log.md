@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 17: February 43th, 2017
+### Day 18: February 16th, 2017
+
+**Today's Progress**: added more functionality to vanilla js todo list app. Did some over the last 2 days but didn't log (not counting those days)
+
+**Thoughts:** Vanilla JavaScript is also fun. Getting the hang of the DOM but need to look into the this key word to get much further on this ;-)
+
+### Day 17: February 14th, 2017
 
 **Today's Progress**: about 45 mins on the trian working on Vanilla JS todo app using ES6 and webpack
 
