@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 19: February 17th, 2017
+
+**Today's Progress**: More functioanlity to vanilla todo list, using some ES6 features
+
+**Thoughts:** Now I am getting used to ES6 it defintely makes code more readable. Stuck on moving elements up and down a list of siblings in the DOM
+
 ### Day 18: February 16th, 2017
 
 **Today's Progress**: added more functionality to vanilla js todo list app. Did some over the last 2 days but didn't log (not counting those days)
