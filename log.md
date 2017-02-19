@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 20: February 19th, 2017
+
+**Today's Progress**: Almost finished all functionality of vanilla js Todo list, last thing to do is add checkbox functionality
+
+**Thoughts:** Had a bit of a wobble the last few days as I was organising a family party. Back on the bike now though lesgooo
+
 ### Day 19: February 17th, 2017
 
 **Today's Progress**: More functioanlity to vanilla todo list, using some ES6 features
