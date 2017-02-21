@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 21: February 20th, 2017
+
+**Today's Progress**: Small upgrades to my todo list project and started looking into Chrome Extension project with friends
+
+**Thoughts:** Only managed about 45 mins today
+
 ### Day 20: February 19th, 2017
 
 **Today's Progress**: Almost finished all functionality of vanilla js Todo list, last thing to do is add checkbox functionality
