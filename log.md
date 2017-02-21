@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 22: February 21st, 2017
+
+**Today's Progress**: Almost finshed the whole JavaScript functionality of my todolist app
+
+**Thoughts:** working out DOM manipulation I can see being really beneficial in the future when using frameworks more. Learn alot more about JS quirks that I assume cause bugs in the framework driven projects. Plus it's fun and I feel 😎
+
 ### Day 21: February 20th, 2017
 
 **Today's Progress**: Small upgrades to my todo list project and started looking into Chrome Extension project with friends
