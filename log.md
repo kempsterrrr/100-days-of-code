@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 23: February 22st, 2017
+
+**Today's Progress**: Still going with todo app. found a bug around inputs that I had to fix
+
+**Thoughts:** It's clear that you learn more when you are fixing something that has gone wrong over writing something new. you have to really think about the problem and the steps your code is taking to spot the bug. Good fun
+
+
 ### Day 22: February 21st, 2017
 
 **Today's Progress**: Almost finshed the whole JavaScript functionality of my todolist app
