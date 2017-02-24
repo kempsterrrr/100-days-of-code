@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 24: February 23st, 2017
+
+**Today's Progress**: Learning more about the this.keyword in JavaScript and some work on vanilla todo
+
+**Thoughts:** Really eager to start building somethig more substantial. More engineering focused, I think I may well get more kicks out of back end development. Time will tell
+
 ### Day 23: February 22st, 2017
 
 **Today's Progress**: Still going with todo app. found a bug around inputs that I had to fix
