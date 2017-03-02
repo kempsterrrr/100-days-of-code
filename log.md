@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 26, 27, 28: February 28th, March 1st & March 2nd 2017
+
+**Today's Progress**: I have been working on a Chrome plugin for tracking the articels I read with a few friends. Learnt LOADS of JavaScript, loads about Chrome plugins, Callbacks, GIT inc branching and merging - awesome fun
+
+**Thoughts:** I cannot believe how useful GIT is for manaing code encase you screw up and for working in teams. Also Chrome plugins are fun. Loving coding at the moment and long may it continue
+
 ### Day 25: February 27th, 2017
 
 **Today's Progress**: Built a Chrome plugin to saved articles I read to a data base.
