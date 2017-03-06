@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 29, 30, 31: March 3rd, 4th and 6th,
+
+**Today's Progress**: More work on Chrome plugin for tracking reading habits. First time using oAuth 2 and chrome-identity API's. Learnt more features of Git as well
+
+**Thoughts:** Very interesting working with and udnerstanding the oAuth better. Also, the more I use the git the less I understand how any developer can work without git. I think it's the main reason I am not getting lost with what I am doing now
+
 ### Day 26, 27, 28: February 28th, March 1st & March 2nd 2017
 
 **Today's Progress**: I have been working on a Chrome plugin for tracking the articels I read with a few friends. Learnt LOADS of JavaScript, loads about Chrome plugins, Callbacks, GIT inc branching and merging - awesome fun
