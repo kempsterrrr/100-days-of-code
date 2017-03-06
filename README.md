@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge.
 
-Plesae feel free to add me on Twitter [@williamdotjs](https://twitter.com/intent/follow?screen_name=williamdotjs)
+Plesae feel free to add me on Twitter [@kempsterrrr](https://twitter.com/intent/follow?screen_name=kempsterrrr)
 
 ## Contents
 * [Rules](rules.md)
